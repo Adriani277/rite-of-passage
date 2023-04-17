@@ -1,0 +1,29 @@
+# ignore generated directories
+target/
+project/project/
+project/target/
+dist/*
+tmp/*
+/.history
+/.idea
+/.settings
+/.classpath
+/.project
+/.cache-main
+/.cache-tests
+/bin/
+/cache/
+/lib_managed/
+/src_managed/
+/project/boot/
+/project/plugins/project/
+.idea/
+*.iml
+.bloop
+.vscode
+.metals
+.bsp
+project/metals.sbt
+
+# ignore mac stuff
+.DS_Store
